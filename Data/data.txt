@@ -1,0 +1,5 @@
+each file corresponds to the coordinates of each coin and its value
+
+tX.csv
+
+x-coordinate, y-coordinate, value of the corresponding coin
